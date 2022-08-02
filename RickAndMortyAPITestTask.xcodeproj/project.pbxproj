@@ -16,6 +16,7 @@
 		15EDFFC728993970002D9890 /* RickAndMortyAPITestTaskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EDFFC628993970002D9890 /* RickAndMortyAPITestTaskTests.swift */; };
 		15EDFFD128993970002D9890 /* RickAndMortyAPITestTaskUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EDFFD028993970002D9890 /* RickAndMortyAPITestTaskUITests.swift */; };
 		15EDFFD328993970002D9890 /* RickAndMortyAPITestTaskUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EDFFD228993970002D9890 /* RickAndMortyAPITestTaskUITestsLaunchTests.swift */; };
+		15EDFFE02899ABBA002D9890 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 15EDFFDF2899ABB9002D9890 /* .gitignore */; };
 		6019DE873E55E6C1ED5ADAC6 /* Pods_RickAndMortyAPITestTask_RickAndMortyAPITestTaskUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7199E588FA6D9534E4C53892 /* Pods_RickAndMortyAPITestTask_RickAndMortyAPITestTaskUITests.framework */; };
 		A30DF063B33AED5D8D7B1F7A /* Pods_RickAndMortyAPITestTask.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6763A29D10D3C6B7289EAEEC /* Pods_RickAndMortyAPITestTask.framework */; };
 		AA31421AE9AE2069136D4D10 /* Pods_RickAndMortyAPITestTaskTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22D903CE22CB2F1289439111 /* Pods_RickAndMortyAPITestTaskTests.framework */; };
@@ -53,6 +54,7 @@
 		15EDFFCC28993970002D9890 /* RickAndMortyAPITestTaskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RickAndMortyAPITestTaskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		15EDFFD028993970002D9890 /* RickAndMortyAPITestTaskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RickAndMortyAPITestTaskUITests.swift; sourceTree = "<group>"; };
 		15EDFFD228993970002D9890 /* RickAndMortyAPITestTaskUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RickAndMortyAPITestTaskUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		15EDFFDF2899ABB9002D9890 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = SOURCE_ROOT; };
 		22D903CE22CB2F1289439111 /* Pods_RickAndMortyAPITestTaskTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RickAndMortyAPITestTaskTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6763A29D10D3C6B7289EAEEC /* Pods_RickAndMortyAPITestTask.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RickAndMortyAPITestTask.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7199E588FA6D9534E4C53892 /* Pods_RickAndMortyAPITestTask_RickAndMortyAPITestTaskUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RickAndMortyAPITestTask_RickAndMortyAPITestTaskUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -123,6 +125,7 @@
 				15EDFFBA2899396F002D9890 /* LaunchScreen.storyboard */,
 				15EDFFBD2899396F002D9890 /* Info.plist */,
 				15EDFFB528993969002D9890 /* RickAndMortyAPITestTask.xcdatamodeld */,
+				15EDFFDF2899ABB9002D9890 /* .gitignore */,
 			);
 			path = RickAndMortyAPITestTask;
 			sourceTree = "<group>";
@@ -277,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				15EDFFBC2899396F002D9890 /* LaunchScreen.storyboard in Resources */,
+				15EDFFE02899ABBA002D9890 /* .gitignore in Resources */,
 				15EDFFB92899396F002D9890 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
